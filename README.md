@@ -1,4 +1,4 @@
-🔭 I’m currently working as an intern at **Gradiant**, where I focus on applying **artificial intelligence models for anomaly detection**.  
+🔭 I’m currently working as a Research Engineer at **Gradiant**, where I focus on applying **artificial intelligence models for anomaly detection**.  
 🌱 I’m currently expanding my knowledge in **cybersecurity** and advanced **AI-driven outlier detection techniques**.  
 👋 Hi, I’m Matías Fernández Lakatos, a Physicist from Montevideo, UY living in Santiago de Compostela, ES.  
 📊 I’m currently studying a Master's in Big Data at the University of Santiago de Compostela, 🇪🇸.  
