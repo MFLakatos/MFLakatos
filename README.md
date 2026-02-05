@@ -1,7 +1,7 @@
 👋 Hi, I’m Matías Fernández Lakatos, a Physicist from Montevideo, UY, now living in Santiago de Compostela, ES.  
 🔭 I work as a Research Engineer at Gradiant, developing AI-driven solutions for anomaly and threat detection in corporate cybersecurity.  
 🌱 My work combines unsupervised machine learning, including β-Variational Autoencoders and forest-based methods, with explainable AI (XAI) and large-scale real-time data processing using tools like Kafka, Spark, and Airflow.  
-🎓 I hold a PhD in Physics, where I focused on phase objects, image modeling, and advanced data analysis, and a Master’s in Big Data Analytics.  
+🎓 I hold a PhD in Physics, where I focused on phase objects, image modeling, and advanced data analysis, a Master’s in Big Data Analytics and also one in Theretical Physics.  
 🛠️ I have over nine years of experience teaching and engaging in community projects, which strengthened my teamwork, communication, and leadership skills.  
 📂 I’m passionate about data science, machine learning, and applied AI.  
 🎲 Outside work, I enjoy board games and reading, embracing the idea of “journey before destination” in both life and research.  
