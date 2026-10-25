@@ -1,23 +1,9 @@
-👋 Hi, I’m Matías Fernández Lakatos, a Physicist from Montevideo, UY, now living in Santiago de Compostela, ES.  
-🔭 I work as a Research Engineer at Gradiant, developing AI-driven solutions for anomaly and threat detection in corporate cybersecurity.  
-🌱 My work combines unsupervised machine learning, including β-Variational Autoencoders and forest-based methods, with explainable AI (XAI) and large-scale real-time data processing using tools like Kafka, Spark, and Airflow.  
-🎓 I hold a PhD in Physics, where I focused on phase objects, image modeling, and advanced data analysis, a Master’s in Big Data Analytics and also one in Theretical Physics.  
-🛠️ I have over nine years of experience teaching and engaging in community projects, which strengthened my teamwork, communication, and leadership skills.  
-📂 I’m passionate about data science, machine learning, and applied AI.  
-🎲 Outside work, I enjoy board games and reading, embracing the idea of “journey before destination” in both life and research.  
-📫 Reach me via [LinkedIn](https://www.linkedin.com/in/mflakatos) or email: mfernandezlakatos@gmail.com / mfernandez@gradiant.org  
+🔹 I’m currently a part-time Professor at Universidad de Montevideo. Previously, I worked as a Senior Neuromorphic Researcher and Research Engineer at Gradiant, developing AI-driven solutions for cybersecurity and exploring energy-efficient AI for edge deployments.
+🔹 My experience spans statistical modeling, unsupervised machine learning, anomaly detection, and scientific computing. I’ve designed and evaluated models such as β-Variational Autoencoders, autoencoders, and Isolation Forests for real-time threat detection in large-scale data streams.
+🔹 My technical background includes Python, TensorFlow/Keras, MLflow, explainable AI (XAI), and data processing technologies such as Kafka, Spark, and Airflow.
+🔹 I hold a PhD in Physics and a Master’s in Big Data Analytics. My research background includes mathematical modeling, signal processing, optimization, and advanced data analysis.
+🔹 I’m passionate about applying data science, machine learning, and quantitative methods to solve challenging real-world problems.
 
-<!--
-**MFLakatos/MFLakatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎲 Outside work, I enjoy board games and reading, embracing the idea of “journey before destination” in both life and research.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/mflakatos or reach me at mfernandezlakatos@gmail.com
